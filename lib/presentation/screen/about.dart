@@ -11,8 +11,8 @@ class AboutScreen extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: const Color(0xFF1E3A8A), // Azul oscuro (igual que el taller 6)
         foregroundColor: Colors.white, // Texto e íconos blancos
-        title: const Text('Acerca De',
-          style: TextStyle(fontFamily: 'serif', fontWeight: FontWeight.bold, fontSize: 28)
+        title: const Text('Acerca De UAE',
+          style: TextStyle(fontFamily: 'serif', fontWeight: FontWeight.bold, fontSize: 22)
         ), // Título de la pantalla
         ),
       body: Center(
